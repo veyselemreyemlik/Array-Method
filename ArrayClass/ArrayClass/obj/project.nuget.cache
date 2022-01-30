@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qHljyEoOircxyd+8ulHXSoJmOK/hlXqbLlshZMGIjHsBiFG1pLebrva4fWThwQ+QMr45WkDHSEYOj8G7/taZOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\ArrayClass\\ArrayClass\\ArrayClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
